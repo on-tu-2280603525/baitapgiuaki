@@ -50,14 +50,15 @@ h3 {
 	color: #ffffff;
 	background-color: #be457c;
 }
-#templatemo_container{
+
+#templatemo_container {
 	width: 940px;
 	margin: 0 auto;
 	border: 10px solid #f2d9ef;
 }
 
-#templatemo_menu_panel{
-	overflow: hidden;	
+#templatemo_menu_panel {
+	overflow: hidden;
 	width: 880px;
 	height: 40px;
 	padding: 0 30px;
@@ -72,6 +73,32 @@ h3 {
 	list-style: none;
 }
 
-#templatemo_menu_panel ul li{
+#templatemo_menu_panel ul li {
 	display: inline;
+}
+
+#templatemo_content_left .product_box {
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+}
+
+.templatemo_right_section {
+	width: 210px;
+	border: 5px solid #f8c7f2;
+	background: #ebbce5;
+	margin-bottom: 30px;
+}
+
+#templatemo_footer_panel {
+	overflow: hidden;
+	width: 900px;
+	padding: 15px 20px;
+	background: #333333;
+}
+
+#templatemo_footer_panel #footer_right {
+	float: right;
+	width: 485px;
+	text-align: left;
 }
