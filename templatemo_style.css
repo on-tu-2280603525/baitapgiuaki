@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Verdana, Arial, san-serif;
+	font-size: 11px;
+	color: #fff;
+	background: #fff;
+}
+
+a:link, a:visited { 
+	color: #F1A5D5; 
+	text-decoration: underline; 
+} 
+
+a:active, a:hover { 
+	color: #FFFF00; 
+	text-decoration:none; 
+}
+
+p {
+	margin: 0px;
+	padding: 0 0 10px 0;
+	text-align: justify;
+}
